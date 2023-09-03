@@ -1,4 +1,4 @@
-package com.workintech.RestApi.RestApiAplication;
+package com.workintech.course.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
